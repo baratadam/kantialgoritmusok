@@ -1,0 +1,49 @@
+.info-section {
+    border: 2px solid rgb(0, 174, 255);
+    margin: 10px;
+    border-radius: 5px;
+    
+}
+.info-header{
+    background-color: rgb(144, 200, 247);
+    padding: 10px;
+    
+}
+.time-memory-section {
+    border: 1px solid rgb(255, 174, 0);
+    margin: 10px;
+    border-radius: 5px;
+    
+    
+}
+.time-memory-header {
+    background-color: rgb(255, 220, 176);
+    padding: 10px;
+    
+}
+.info-content, .time-memory-content {
+    padding: 10px;
+    
+}
+.info-icon{
+    display: inline-flex;
+    width: 16px;
+    height: 16px;
+    margin: 0 10px 0 0;
+}
+.time-memory-icon{
+    display: inline-flex;
+    width: 16px;
+    height: 16px;
+    margin: 0 10px 0 0;
+}
+h1 {
+    color: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
